@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "CoffeeMenu",
+			"path": "../CoffeeMenu/CoffeeMenu"
+		}
+	],
+	"settings": {}
+}
